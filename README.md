@@ -1,4 +1,4 @@
-# Interworking Procols Assignment
+# Interworking Protocols Assignment
 
 Simulation of communication between multiple nodes on a network using sockets in Python.
 
