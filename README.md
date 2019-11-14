@@ -1,7 +1,8 @@
-# python-sockets
+# Interworking Procols Assignment
+
 Simulation of communication between multiple nodes on a network using sockets in Python.
 
-# Interworking Procols Assignment
+## Question
 
 Consider there are four nodes A, B, C and D and the physical connections are between A-B, C-B, and B-D. Implement this scenario by using process/thread for representing each node and physical connections through sockets. (i.e., there is a channel between A and B, C and B, and B and D).
 
